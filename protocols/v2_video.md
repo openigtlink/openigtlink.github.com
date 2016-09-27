@@ -12,7 +12,8 @@ The Video format supports video codec streaming with metric information includin
 frame height, frame width, time interval. The body section of the VIDEO
 data consists of two parts: video header to transfer the metric information and video body
 to transfer encoded video bit stream. The numerical values can be 8-, 16-, 32-bit integer, depending on the encoder.
-The pixel values can be either big-endian or little-endian. This message type could be used for real-time video transmission,
+The pixel values can be either big-endian or little-endian. This message type could be used for real-time video transmission. 
+A demonstration program could be found here: [VideoStreamingOpenIGTLink](https://github.com/openigtlink/VideoStreamingOpenIGTLink)
 
 
 
