@@ -50,6 +50,7 @@ group: navigation
 * [NDARRAY](protocols/v2_ndarray.html)
 * [BIND](protocols/v2_bind.html)
 * [POLYDATA](protocols/v2_polydata.html)
+* [VIDEO](protocols/v2_video.html)
 
 ### Other Information
 * [64-bit UNIT field in OpenIGTLink](protocols/v2_unit.html)
