@@ -1,9 +1,8 @@
 ---
 layout: page
-title: SDK
+title: For Developers > C/C++ Library
 header: Pages
 weight: 3
-group: navigation
 ---
 {% include JB/setup %}
 

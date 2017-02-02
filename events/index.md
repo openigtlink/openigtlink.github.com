@@ -2,7 +2,7 @@
 layout: page
 title: Events
 group: navigation
-weight: 5
+order: 5
 description: ""
 ---
 {% include JB/setup %}
@@ -26,7 +26,7 @@ See [Release Log](releaselog.html) for release information.
   * [3D Slicer + ROS Integration using OpenIGTLink](http://wiki.na-mic.org/Wiki/index.php/2016_Winter_Project_Week/Projects/SlicerROSIntegration)
   * [Tracked ULtrasound Standardization](http://wiki.na-mic.org/Wiki/index.php/2016_Winter_Project_Week/Projects/TrackedUltrasoundStandardization)
 
-## 2015
+### 2015
 * May 30, 2015 - [ICRA 2015 Workshop "Shared Frameworks for Medical Robotics Research", Seattle, WA](http://research.intusurg.com/workshops/icra-2015/)
 * October 5, 2015 - [MICCAI 2015 Tutorial "Navigation of Interventional and Surgical Devices Using Open-Source Software", Munich, Germany](http://www.slicerigt.org/wp/miccai-2015-tutorial/)
 
@@ -54,7 +54,7 @@ See [Release Log](releaselog.html) for release information.
 * April 27, 2011 - [Slicer and OpenIGTLink Hands-on Training, Hiroshima, Japan](http://www.na-mic.org/Wiki/index.php/Events:Slicer-Hands-On-Hiroshima-2011) (In Japanese)
 * January 10-14, 2011 - [NA-MIC All Hands Meeting, Winter Project Week in Salt Lake City](http://www.na-mic.org/Wiki/index.php/AHM_2011)
 
-###2010
+### 2010
 * December 6-7, 2010 - [Slicer workshop in Dundee, UK](http://www.na-mic.org/Wiki/index.php/Events:Dundee-Dec-2010)
 * June 21-25, 2010 - [Summer Project Week at MIT -- OpenIGTLink Updates](http://www.na-mic.org/Wiki/index.php?title=2010_Summer_Project_Week)
 * May 27, 2010 - [NA-MIC teleconference call on May 27, 2010](http://www.na-mic.org/Wiki/index.php?title=Engineering:TCON_2010) Discussion on OpenIGTLink session in [NA-MIC Summer Project Week in Boston](http://www.na-mic.org/Wiki/index.php?title=2010_Summer_Project_Week)
@@ -69,5 +69,4 @@ See [Release Log](releaselog.html) for release information.
 
 ### 2007
 * December 14, 2007 - [Middleware features discussion](http://www.slicer.org/slicerWiki/index.php/Slicer/Features/Middleware) at [Slicer IGT Programming week](http://www.na-mic.org/Wiki/index.php?title=2007_December_Slicer_IGT_Programming).
-
 * June 27, 2007 - Initial discussion about requirements

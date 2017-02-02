@@ -1,6 +1,6 @@
 ---
 layout: page
-title: SDK > API Documents
+title: Developers > API Documents
 description: ""
 ---
 

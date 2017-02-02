@@ -2,22 +2,21 @@
 layout: page
 title: Contact
 group: navigation
-weight: 6
+order: 6
 description: ""
 ---
 {% include JB/setup %}
 
 
-You are welcome to join the OpenIGTLink mailing list (openigtlink@bwh.harvard.edu).
+The OpenIGTLink Library is open-source software, and we welcome your feedbacks,
+feature requests, and patches. There are several ways to contribute to the project.
+Please refer to [How to Contribute](/library/contribute).
 
-If you would like to join, please subscribe from
 
-* <http://massmail.spl.harvard.edu/mailman/listinfo/openigtlink>
+If you have questions regarding the project or potential collaborations,
+please feel free to contact:
 
-or send Junichi Tokuda (tokuda at bwh.harvard.edu) a message with:
 
-* Your name
-* e-mail address you would like to use to post and receive ML articles on
-* Affiliation
-* Your research topic
+- [Junichi Tokuda](http://www.spl.harvard.edu/pages/People/tokuda), Department of Radiology, Brigham and Women's Hospital.
+
 
