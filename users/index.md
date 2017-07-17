@@ -102,6 +102,16 @@ NifTK
 NifTK is the name of our platform, combining NiftyReg, NiftySim, NiftyRec and NiftySeg via the viewer NiftyView developed by Translational Imaging Group at University Colledge London. The group has released a network communication library named [NiftyLink](http://cmic.cs.ucl.ac.uk/NiftyLink-API/), which uses OpenIGTLink for network data transfer.
 
 
+ROS
+---
+
+> ROS Official Page: [http://www.ros.org](http://www.ros.org/)
+
+> ROS-IGTL-Bridge Page: [https://github.com/openigtlink/ROS-IGTL-Bridge](https://github.com/openigtlink/ROS-IGTL-Bridge)
+
+The Robot Operating System (ROS) is a popular framework for writing robot software. We provide a bridge software for the data exchange between ROS and medical image computing software using OpenIGTLink.
+
+
 
 
 

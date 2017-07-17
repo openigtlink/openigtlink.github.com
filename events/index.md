@@ -11,7 +11,12 @@ See [Release Log](releaselog.html) for release information.
 
 ## Upcoming
 
+### 2018
+* January 8-12, 2017 - [Winter Project Week 2018, MIT, Cambridge MA](https://na-mic.org/wiki/Project_Week_27)
+
 ### 2017
+* July 17-21, 2017 - [1st Slicer Project Week Western and 1st Slicer IGT Project Week, Robarts Research Institute, London, ON](http://wiki.imaging.robarts.ca/index.php/Main_Page)
+
 
 ## Past
 

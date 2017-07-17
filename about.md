@@ -91,6 +91,7 @@ Contributors
 1. Tokuda J, Fischer GS, DiMaio SP, Gobbi DG, Csoma C, Mewes PW, Fichtinger G, Tempany CM, Hata N. Integrated navigation and control software system for MRI-guided robotic prostate interventions. Comput Med Imaging Graph. 2010 Jan;34(1):3-8.
 1. Elhawary H, Liu H, Patel P, Norton I, Rigolo L, Papademetris X, Hata N, Golby AJ. Intraoperative real-time querying of white matter tracts during frameless stereotactic neuronavigation. Neurosurgery. 2011 Feb;68(2):506-16.
 1. Egger J, Tokuda J, Chauvin L, Freisleben B, Nimsky C, Kapur T, Wells W. Integration of the OpenIGTLink Network Protocol for image-guided therapy with the medical platform MeVisLab, Int J Med Robot. 2012 Sep;8(3):282-90. 
-1. Tauscher S, Tokuda J, Schreiber G, Neff T, Hata N, Ortmaier T. OpenIGTLink interface for state control and visualisation of a robot for image-guided therapy systems. Int J Comput Assist Radiol Surg. 2014 Jun 13. 
-
+1. Tauscher S, Tokuda J, Schreiber G, Neff T, Hata N, Ortmaier T. OpenIGTLink interface for state control and visualisation of a robot for image-guided therapy systems. Int J Comput Assist Radiol Surg. 2015 Mar;10(3):285-92.
+1. Frank T, Krieger A, Leonard S, Patel NA, Tokuda J. ROS-IGTL-Bridge: an open network interface for image-guided therapy using the ROS environment. Int J Comput Assist Radiol Surg. 2017 May 31. doi: 10.1007/s11548-017-1618-1. [Epub
+ahead of print]
 
