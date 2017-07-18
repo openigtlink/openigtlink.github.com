@@ -28,7 +28,9 @@ detailed specification of each version of the protocol
 
 - [Release 2.0](protocols/v2_index.html)
 
-- [Release 3.0](https://github.com/openigtlink/OpenIGTLink/blob/master/Documents/Protocol/index.md)
+- [Release 3.0](https://github.com/openigtlink/OpenIGTLink/blob/release-3.0/Documents/Protocol/index.md)
+
+- [Nightly Build](https://github.com/openigtlink/OpenIGTLink/blob/master/Documents/Protocol/index.md)
 
 [AUTO_VER2]: <> (DO NOT CHANGE THIS LINE. The release script will add a release log here.)
 
