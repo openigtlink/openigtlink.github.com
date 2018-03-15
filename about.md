@@ -46,6 +46,10 @@ Contributors
 ============
 
 * [Junichi Tokuda, Ph.D.](http://www.spl.harvard.edu/pages/People/tokuda), Brigham and Women's Hospital (Lead Developer)
+* Longquan Chen, M.S., Brigham and Women's Hospital
+* [Tamas Ungi, M.D., Ph.D.](http://perk.cs.queensu.ca/profiles/ungi), Queen's University, Canada
+* [Andras Lasso, Ph.D.](http://perk.cs.queensu.ca/profiles/lasso), Queen's University, Canada
+* [Adam Rakin](http://www.imaging.robarts.ca/petergrp/node/113), Unniversity of Western Ontario / Roberts Research Institute, Canada
 * [Nobuhiko Hata, Ph.D.](http://www.spl.harvard.edu/pages/People/noby), Brigham and Women's Hospital
 * [Clare M. Tempany, M.D.](http://www.spl.harvard.edu/pages/People/ctempany), Brigham and Women's Hospital
 * [Kiyoyuki Chinzei, Ph.D.](http://staff.aist.go.jp/k.chinzei/), National Institute of Advanced Industrial Science and Technology, Japan
@@ -55,11 +59,8 @@ Contributors
 * [Steve Pieper, Ph.D.](http://www.spl.harvard.edu/pages/People/pieper), Isomics, Inc.
 * [Isaiah Norton](http://golbylab.bwh.harvard.edu/people/nortonIsaiah.html), Brigham and Women's Hospital
 * [Gabor Fichtinger, Ph.D.](http://research.cs.queensu.ca/~gabor/), Queen's University, Canada
-* [Tamas Ungi, M.D., Ph.D.](http://perk.cs.queensu.ca/profiles/ungi), Queen's University, Canada
-* [Andras Lasso, Ph.D.](http://perk.cs.queensu.ca/profiles/lasso), Queen's University, Canada
 * [Gregory S. Fischer, Ph.D.](http://aimlab.wpi.edu/people/Gregory_Fischer), Worcester Polytechnic Institute
 * [Matt Clarkson, Ph.D.](http://cmic.cs.ucl.ac.uk/), Centre For Medical Image Computing, University College London, UK.
-* [Adam Rakin](http://www.imaging.robarts.ca/petergrp/node/113), Unniversity of Western Ontario / Roberts Research Institute, Canada
 * [Sebastian Tauscher, M.Sc.](http://www.imes.uni-hannover.de/11.html?&L=1&tx_tkinstpersonen_pi1%5Balias%5D=tauscher&cHash=87be8789251f292d9707429a8782d013), Institut f&uuml;r Mechatronische Systeme, Leibniz Universit&auml;t Hannover
 * [Laurent Chauvin, M.S.](http://www.spl.harvard.edu/pages/People/lchauvin), Brigham and Women's Hospital
 * [Luis Ib&aacute;&ntilde;ez, Ph.D.](http://www.kitware.com/profile/team/ibanez.html), Kitware, Inc.
