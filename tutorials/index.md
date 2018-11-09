@@ -79,3 +79,9 @@ the new interface does not require MEX, and can be used without compilation.
 You may still use the old interface for Octave, a free Matlab alternative. 
 
 
+Develop OpenIGTLink server/client for Single-Board Computers
+------------------------------------------------------------
+
+> Web page: [OpenIGTLink for Single-Board Computers](sbc-igtl)
+
+A Single-Board Computer (SBC) is a small computer built on a single circuit board typically used as embedded computer  in hardware systems. Recently, hobby-oriented SBCs equipped with ARM-based processors have become popular and widely used for the hobby, educational, and research purposes. This page demonstrates how to develop and deploy an OpenIGTLink interface for ARM-based SBC using [BeagleBone Black Wireless](https://beagleboard.org/black-wireless).
