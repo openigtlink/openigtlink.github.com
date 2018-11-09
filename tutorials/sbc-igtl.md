@@ -5,18 +5,27 @@ header: Pages
 ---
 {% include JB/setup %}
 
-##Introduction
+Introduction
+------------
 
 A Single-Board Computer (SBC) is a small computer built on a single circuit board typically used as embedded computer  in hardware systems. Recently, hobby-oriented SBCs equipped with ARM-based processors have become popular and widely used for the hobby, educational, and research purposes. This page demonstrates how to develop and deploy an OpenIGTLink interface for ARM-based SBC using [BeagleBone Black Wireless](https://beagleboard.org/black-wireless) (BBB). The goal is to setup a cross-compile enviroment to compile and build the OpenIGTLink libary (and application that uses the library) on a PC, and then execute the binary on the BBB hardware. While it is possible to build the OpenIGTLink library on BBB, we recommend to compile on the PC because it would be a lot faster. 
 
-##Prerequisite
+Prerequisite
+------------
+
 1. A host Linux PC for development (Ubuntu 18.04 was used for testing)
 2. [BeagleBone Black Wireless](https://beagleboard.org/black-wireless) (BBB)
 
-##Connect BBB to Host PC
+
+Connect BBB to Host PC
+----------------------
+
 There are several ways to establish TCP/IP connection between BBB and the host PC, including Ethernet, WiFi, and USB. Please refer to [Getting Started page](https://beagleboard.org/getting-started).
 
-##Setup Cross-Compile Environment
+
+Setup Cross-Compile Environment
+-------------------------------
+
 To build a binary file for BBB (ARM-based) on the host PC (Intel-based), we setup a cross-compile environment using [Linaro](https://www.linaro.org/). Linaro provides binary cross-compile packages for Linux environments. Linaro can be also bulit using a toolchain build scripts like [crosstool-NG](http://crosstool-ng.github.io/) if you cannot find the right binary for the OS of your host PC (includig macOS).
 
 First, login to your BBB using SSH (assuming that the IP for BBB is 192.168.7.2):
@@ -56,7 +65,10 @@ Finally, extract the files and copy them to the install folder:
     $ tar xf gcc-linaro-4.9.4-2017.01-x86_64_arm-linux-gnueabihf.tar.xz
     $ mv gcc-linaro-4.9.4-2017.01-x86_64_arm-linux-gnueabihf <install folder>
 
-##Build the OpenIGTLink library
+
+Build the OpenIGTLink library
+-----------------------------
+
 We will build the OpenIGTLink library for (1) the host PC and (2) BBB.
 
 First, obtian the code from GitHub:
@@ -94,7 +106,8 @@ Finally, build the binary for BBB using the following commands:
 
     $ cmake -DBUILD_EXAMPLES=1 -DCMAKE_TOOLCHAIN_FILE=toolchain.cmake ../OpenIGTLink
 
-##Testing
+Testing
+-------
 
 Test the binaries by sending tracking data from the host PC to BBB.
 
@@ -120,7 +133,8 @@ Go back to the original terminal and start TrackerClient. Make sure to use the b
 
 You should see the received matrices on the second terminal, if the binaries are working.
 
-##References
+References
+----------
 
 - https://www.digikey.com/eewiki/display/linuxonarm/BeagleBone+Black
 
