@@ -8,7 +8,7 @@ header: Pages
 Introduction
 ------------
 
-A Single-Board Computer (SBC) is a small computer built on a single circuit board typically used as embedded computer  in hardware systems. Recently, hobby-oriented SBCs equipped with ARM-based processors have become popular and widely used for the hobby, educational, and research purposes. This page demonstrates how to develop and deploy an OpenIGTLink interface for ARM-based SBC using [BeagleBone Black Wireless](https://beagleboard.org/black-wireless) (BBB). The goal is to setup a cross-compile enviroment to compile and build the OpenIGTLink libary (and application that uses the library) on a PC, and then execute the binary on the BBB hardware. While it is possible to build the OpenIGTLink library on BBB, we recommend to compile on the PC because it would be a lot faster. 
+A Single-Board Computer (SBC) is a small computer built on a single circuit board typically used as an embedded computer in hardware systems. Recently, hobby-oriented SBCs equipped with ARM-based processors have become popular and widely used for the hobby, educational, and research purposes. This page demonstrates how to develop and deploy an OpenIGTLink interface for ARM-based SBC using [BeagleBone Black Wireless](https://beagleboard.org/black-wireless) (BBB). The goal is to set up a cross-compile environment to compile and build the OpenIGTLink library (and application that uses the library) on a PC, and then execute the binary on the BBB hardware. While it is possible to build the OpenIGTLink library on BBB, we recommend compiling on the PC because it would be a lot faster. 
 
 Prerequisite
 ------------
@@ -26,9 +26,9 @@ There are several ways to establish TCP/IP connection between BBB and the host P
 Setup Cross-Compile Environment
 -------------------------------
 
-To build a binary file for BBB (ARM-based) on the host PC (Intel-based), we setup a cross-compile environment using [Linaro](https://www.linaro.org/). Linaro provides binary cross-compile packages for Linux environments. Linaro can be also bulit using a toolchain build scripts like [crosstool-NG](http://crosstool-ng.github.io/) if you cannot find the right binary for the OS of your host PC (includig macOS).
+To build a binary file for BBB (ARM-based) on the host PC (Intel-based), we set up a cross-compile environment using [Linaro](https://www.linaro.org/). Linaro provides binary cross-compile packages for Linux environments. Linaro can also be built using toolchain build scripts like [crosstool-NG](http://crosstool-ng.github.io/) if you cannot find the right binary for the OS of your host PC (including macOS).
 
-First, login to your BBB using SSH (assuming that the IP for BBB is 192.168.7.2):
+First, log in to your BBB using SSH (assuming that the IP for BBB is 192.168.7.2):
 
     $ ssh -l debian 192.168.7.2
     
@@ -56,7 +56,7 @@ Then check the compile version of your BBB by:
     gcc version 4.9.2 (Debian 4.9.2-10) 
     debian@beaglebone:~$ 
 
-In the above example, the compiler version is 4.9.2. Once you find out the compiler version, download the binary package from [the Linaro binary downlaod page](https://releases.linaro.org/components/toolchain/binaries/). Please make sure that the first two digits of the complier version on your BBB (4.9) matches the version number of the Linaro package. You can downlaod directly from the web browser, or using wget:
+In the above example, the compiler version is 4.9.2. Once you find out the compiler version, download the binary package from [the Linaro binary download page](https://releases.linaro.org/components/toolchain/binaries/). Please make sure that the first two digits of the compiler version on your BBB (4.9) match the version number of the Linaro package. You can download directly from the web browser, or using wget:
 
     $ wget -c https://releases.linaro.org/components/toolchain/binaries/4.9.4-2017.01/arm-linux-gnueabihf/gcc-linaro-4.9.4-2017.01-x86_64_arm-linux-gnueabihf.tar.xz
 
@@ -71,7 +71,7 @@ Build the OpenIGTLink library
 
 We will build the OpenIGTLink library for (1) the host PC and (2) BBB.
 
-First, obtian the code from GitHub:
+First, obtain the code from GitHub:
 
     $ git clone https://github.com/openigtlink/OpenIGTLink.git
 
@@ -131,7 +131,7 @@ Go back to the original terminal and start TrackerClient. Make sure to use the b
     $ cd bin
     $ ./TrackerClient 192.168.7.2 18944 10
 
-You should see the received matrices on the second terminal, if the binaries are working.
+You should see the received matrices on the second terminal if the binaries are working.
 
 References
 ----------
