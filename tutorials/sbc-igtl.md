@@ -8,7 +8,7 @@ header: Pages
 Introduction
 ------------
 
-A Single-Board Computer (SBC) is a small computer built on a single circuit board typically used as an embedded computer in hardware systems. Recently, hobby-oriented SBCs equipped with ARM-based processors have become popular and widely used for the hobby, educational, and research purposes. This page demonstrates how to develop and deploy an OpenIGTLink interface for ARM-based SBC using [BeagleBone Black Wireless](https://beagleboard.org/black-wireless) (BBB). The goal is to set up a cross-compile environment to compile and build the OpenIGTLink library (and application that uses the library) on a PC, and then execute the binary on the BBB hardware. While it is possible to build the OpenIGTLink library on BBB, we recommend compiling on the PC because it would be a lot faster. 
+A Single-Board Computer (SBC) is a small computer built on a single circuit board typically used as an embedded computer in hardware systems. Recently, hobby-oriented SBCs equipped with ARM-based processors have become popular and widely used for the hobby, educational, and research purposes. This page demonstrates how to develop and deploy an OpenIGTLink interface for ARM-based SBC using [BeagleBone Black Wireless](https://beagleboard.org/black-wireless) (BBB). The goal is to set up a cross-compile environment to compile and build the OpenIGTLink library (and application that uses the library) on a PC, and then execute the binary on the BBB hardware. (We setup the cross-compile environment for the demo purpose -- It is still possible to build the OpenIGTLink library on BBB.)
 
 Prerequisite
 ------------

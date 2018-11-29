@@ -85,3 +85,12 @@ Develop OpenIGTLink server/client for Single-Board Computers
 > Web page: [OpenIGTLink for Single-Board Computers](sbc-igtl)
 
 A Single-Board Computer (SBC) is a small computer built on a single circuit board typically used as embedded computer  in hardware systems. Recently, hobby-oriented SBCs equipped with ARM-based processors have become popular and widely used for the hobby, educational, and research purposes. This page demonstrates how to develop and deploy an OpenIGTLink interface for ARM-based SBC using [BeagleBone Black Wireless](https://beagleboard.org/black-wireless).
+
+
+
+ROS-IGTL-Bridge on a Signel-Board Computer
+------------------------------------------
+
+> Web page: [ROS-IGTL-Bridge on a Signel-Board Computer](sbc-ros-igtl-bridge)
+
+In this tutorial, we will setup [Robot Operating System](http://www.ros.org/) on an ARM-based single-board computer (SBC), ROS-IGTL-Bridge, and demonstrate communication between a ROS node on the SBC and 3D Slicer on the host PC. 
