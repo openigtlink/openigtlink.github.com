@@ -11,7 +11,14 @@ See [Release Log](releaselog.html) for release information.
 
 ## Upcoming
 
+### 2019
+* June 24-28, 2019 - [Project Week at MIT, Boston, USA.](https://na-mic.org/wiki/Project_Week_31)
+* April 3, 2019 - [Workshop at 2019 SSMR and 2019 ISMR: Building Software Systems for Image-Guided Robot-Assisted Interventions](http://www.ismr.gatech.edu/workshop-program)
+* January 28 - February 1, 2019 - [NA-MIC Project Week will be held during the week of  at Universidad de Las Palmas de Gran Canaria.](https://na-mic.github.io/ProjectWeek/PW30_2019_GranCanaria/)
+
 ### 2018
+* July 16-20, 2018 - [NA-MIC Project Week at the Robarts Research Institute, Western University.](https://na-mic.github.io/ProjectWeek/PW29_2018_London_Canada/)
+* June 25-29, 2018 - [NA-MIC Project Week at Universidad de Las Palmas de Gran Canaria.](https://na-mic.github.io/ProjectWeek/PW28_2018_GranCanaria/)
 * January 8-12, 2017 - [Winter Project Week 2018, MIT, Cambridge MA](https://na-mic.org/wiki/Project_Week_27)
 
 ### 2017
