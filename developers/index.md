@@ -49,6 +49,12 @@ multi-platform strategies will lead to the widespread use of OpenIGTLink, and
 ultimately help to establish the interoperability among a wide variety of
 components developed by different groups and companies in the community.
 
+Python
+------
+
+Python implementation of OpenIGTLink is available at: https://pypi.org/project/pyigtl/
+It supports OpenIGTLinkv3, client and server mode, and the most commonly used message types.
+
 Java
 ----
 
@@ -59,15 +65,6 @@ OpenIGTLink library as free open-source software. Please visit:
 * [http://code.google.com/p/igtlink4j/](http://code.google.com/p/igtlink4j/)
 
 for more detail.
-
-
-Other Languages
----------------
-
-There is no official implementation of OpenIGTLink interface in other language.
-However, developers can use OpenIGTLink from the Python environment on 3D Slicer.
-See [3D Slicer OpenIGTLinkIF Developers' information](https://www.slicer.org/wiki/Documentation/Nightly/Developers/OpenIGTLinkIF).
-
 
 Development and Maintenance
 ===========================
