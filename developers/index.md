@@ -52,8 +52,7 @@ components developed by different groups and companies in the community.
 Python
 ------
 
-Python implementation of OpenIGTLink is available at: https://pypi.org/project/pyigtl/
-It supports OpenIGTLinkv3, client and server mode, and the most commonly used message types.
+[pyigtl](https://pypi.org/project/pyigtl/) is a Python implementation of OpenIGTLink. It supports protocol version 3, client and server mode, and the most commonly used message types.
 
 Java
 ----
