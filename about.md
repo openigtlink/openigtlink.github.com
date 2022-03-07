@@ -65,6 +65,7 @@ Contributors
 * [Matt Clarkson, Ph.D.](http://cmic.cs.ucl.ac.uk/), Centre For Medical Image Computing, University College London, UK.
 * [Sebastian Tauscher, M.Sc.](http://www.imes.uni-hannover.de/11.html?&L=1&tx_tkinstpersonen_pi1%5Balias%5D=tauscher&cHash=87be8789251f292d9707429a8782d013), Institut f&uuml;r Mechatronische Systeme, Leibniz Universit&auml;t Hannover
 * [Laurent Chauvin, M.S.](http://www.spl.harvard.edu/pages/People/lchauvin), Brigham and Women's Hospital
+* [Csaba Csoma, M.S.], Johns Hopkins University
 * [Luis Ib&aacute;&ntilde;ez, Ph.D.](http://www.kitware.com/profile/team/ibanez.html), Kitware, Inc.
 * Patrick Cheng, Ph.D., Georgetown University
 * [Peter Kazanzides, Ph.D.](http://eng.jhu.edu/wse/systems-institute/page/peter-kazanzides), Johns Hopkins University
@@ -76,6 +77,7 @@ Contributors
 * [Haying Liu](http://www.spl.harvard.edu/pages/People/hliu), Brigham and Women's Hospital
 * [Yuichiro Hayashi](http://www.spl.harvard.edu/pages/People/yhayashi), Ph.D., Nagoya University, Japan
 * [Atsushi Yamada, Ph.D.](http://www.spl.harvard.edu/pages/People/ayamada), Shiga University of Medical Science, Japan
+
 
 ### Institutes, Organizations
 * [National Center for Image Guided Therapy](http://ncigt.org)
