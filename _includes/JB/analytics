@@ -3,6 +3,8 @@
 {% case site.JB.analytics.provider %}
 {% when "google" %}
   {% include JB/analytics-providers/google %}
+{% when "ga4" %}
+  {% include JB/analytics-providers/ga4 %}
 {% when "getclicky" %}
   {% include JB/analytics-providers/getclicky %}
 {% when "mixpanel" %}
