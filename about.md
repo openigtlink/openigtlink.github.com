@@ -47,7 +47,7 @@ There are also several research projects that are supporting the development of 
 Contributors
 ============
 
-* [Junichi Tokuda, Ph.D.](http://www.spl.harvard.edu/pages/People/tokuda), Brigham and Women's Hospital (Lead Developer)
+* [Junichi Tokuda, Ph.D.](https://tokuda-lab.bwh.harvard.edu/team/junichi-tokuda/), Brigham and Women's Hospital (Lead Developer)
 * Longquan Chen, M.S., Brigham and Women's Hospital
 * [Tamas Ungi, M.D., Ph.D.](http://perk.cs.queensu.ca/profiles/ungi), Queen's University, Canada
 * [Andras Lasso, Ph.D.](http://perk.cs.queensu.ca/profiles/lasso), Queen's University, Canada
