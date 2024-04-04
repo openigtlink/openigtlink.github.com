@@ -84,6 +84,7 @@ Contributors
 * [National Alliance for Medical Image Computing](http://na-mic.org)
 * [Surgical Navigation and Robotics Laboratory, Brigham and Women's Hospital](http://snr.spl.harvard.edu)
 * [Surgical Planning Laboratory, Brigham and Women's Hospital](http://www.spl.harvard.edu)
+* [Tokuda Lab., Brigham and Women's Hospital](https://tokuda-lab.bwh.harvard.edu)
 * [Automation and Interventional Medicine (AIM) Robotics Laboratory, Worcester Polytechnic Institute](http://aimlab.wpi.edu)
 * [Laboratory for Percutaneous Surgery, Queen's University, Canada](http://perk.cs.queensu.ca)
 * [Insight Software Consortium](http://www.insightsoftwareconsortium.org/)
